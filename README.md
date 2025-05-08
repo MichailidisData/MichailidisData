@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nikolas and I'm a Mathematician and an aspiring Data Analyst. I’ve always been fascinated by the power of data to uncover insights and help organizations make informed decisions. I have hands-on experience with tools like Excel, SQL, and Python, and I’ve worked on several projects where I analyzed data sets to identify trends and present actionable insights. I’ve also gained proficiency in data visualization software like Tableau and Power BI.
+My name is Nikolas and I'm a Mathematician and an aspiring Data Analyst and Data Scientist. I’ve always been fascinated by the power of data to uncover insights and help organizations make informed decisions. I have hands-on experience with tools like Excel, SQL, and Python, and I’ve worked on several projects where I analyzed data sets to identify trends and present actionable insights. I’ve also gained proficiency in data visualization software like Tableau and Power BI.
 
 
 <!--
